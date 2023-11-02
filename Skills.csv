@@ -1,0 +1,21 @@
+﻿Person,Skill,Expertise
+Person A,Tableau,Beginner
+Person A,SQL,Intermediate
+Person A,Excel,Guru
+Person A,PowerPoint,Beginner
+Person A,Office,Intermediate
+Person B,Tableau,Guru
+Person B,SQL,Beginner
+Person B,Excel,Intermediate
+Person B,PowerPoint,Guru
+Person B,Office,Beginner
+Person C,Tableau,Intermediate
+Person C,SQL,Guru
+Person C,Excel,Beginner
+Person C,PowerPoint,Intermediate
+Person C,Office,Guru
+Person D,Tableau,Beginner
+Person D,SQL,Intermediate
+Person D,Excel,Guru
+Person D,PowerPoint,Beginner
+Person D,Office,Intermediate
