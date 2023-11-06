@@ -1,21 +1,25 @@
 ﻿Person,Skill,Expertise
 Person A,Tableau,Beginner
 Person A,SQL,Intermediate
-Person A,Excel,Guru
-Person A,PowerPoint,Beginner
+Person A,Power BI,Guru
+Person A,Excel,Beginner
 Person A,Office,Intermediate
+Person A,Snowflake,Intermediate
 Person B,Tableau,Guru
 Person B,SQL,Beginner
-Person B,Excel,Intermediate
-Person B,PowerPoint,Guru
+Person B,Power BI,Intermediate
+Person B,Excel,Guru
 Person B,Office,Beginner
+Person B,Snowflake,Intermediate
 Person C,Tableau,Intermediate
 Person C,SQL,Guru
-Person C,Excel,Beginner
-Person C,PowerPoint,Intermediate
+Person C,Power BI,Beginner
+Person C,Excel,Intermediate
 Person C,Office,Guru
+Person C,Snowflake,Intermediate
 Person D,Tableau,Beginner
 Person D,SQL,Intermediate
-Person D,Excel,Guru
-Person D,PowerPoint,Beginner
+Person D,Power BI,Guru
+Person D,Excel,Beginner
 Person D,Office,Intermediate
+Person D,Snowflake,Intermediate
